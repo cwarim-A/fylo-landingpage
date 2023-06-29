@@ -87,6 +87,7 @@ body{
     padding: 50px;
     font-family: 'Raleway', sans-serif;
     color: hsl(243, 87%, 12%);
+    overflow:hidden;
 }
 .desc-two > .text-section {
     width: 60%;
